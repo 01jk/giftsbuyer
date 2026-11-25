@@ -1,0 +1,15 @@
+.git
+.env
+.env.*
+!.env.example
+*.session*
+**/*.session*
+*.db*
+**/*.db*
+*.sqlite*
+**/*.sqlite*
+data/
+user_sessions/
+stickers_cache/
+.venv/
+**/__pycache__/
